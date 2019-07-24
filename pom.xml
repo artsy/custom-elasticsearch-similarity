@@ -6,7 +6,7 @@
 
   <groupId>com.artsy</groupId>
   <artifactId>artsy-similarity-plugin</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
 
   <name>artsy-similarity-plugin</name>
   <!-- FIXME change it to the project's website -->
